@@ -29,7 +29,5 @@ class User extends Authenticatable
     public function user(){
         echo "hello world";
 
-
-
     }
 }
